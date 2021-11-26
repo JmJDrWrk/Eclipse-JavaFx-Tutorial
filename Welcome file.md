@@ -95,3 +95,5 @@ PARA VER LAS TABLAS HAY QUE RECONECTAR LA BASE DE DATOS CON EL CLICK DERECHO
 https://github.com/JmJDrWrk/Eclipse-JavaFx-Tutorial/blob/main/Captura.PNG
 
 # FIN
+
+😂 COLABORACIÓN 😂
