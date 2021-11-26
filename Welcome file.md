@@ -103,3 +103,20 @@ Jésus
 
 El tío de delante
 ...
+
+
+# PARA EMPEZAR UN NUEVO PROYECTO
+## Plugin e(fx)clipse
+Instalar desde el marketplace como el primer plugin
+## Descargar la version de javafx para nuestro OS 
+Descargar desde este enlace en formato SDK
+https://gluonhq.com/products/javafx/
+
+## Creamos un proyecto de javafx 
+New>Project>Java Fx Project
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NWLpsnz/image.png" alt="image" border="0"></a> 
+
+-- Click derecho > Build Path > Modules > Add External jar (Seleccionar todos los jar de la carpeta bin del java fx)
+<a href="https://ibb.co/j4g8T7f"><img src="https://i.ibb.co/f04X2mF/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/fCtCq0t"><img src="https://i.ibb.co/SK0K5v0/image.png" alt="image" border="0"></a>
+y Ejecutar
