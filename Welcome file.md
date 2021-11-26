@@ -116,7 +116,9 @@ https://gluonhq.com/products/javafx/
 New>Project>Java Fx Project
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/NWLpsnz/image.png" alt="image" border="0"></a> 
 
+
 -- Click derecho > Build Path > Modules > Add External jar (Seleccionar todos los jar de la carpeta bin del java fx)
+
 <a href="https://ibb.co/j4g8T7f"><img src="https://i.ibb.co/f04X2mF/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/fCtCq0t"><img src="https://i.ibb.co/SK0K5v0/image.png" alt="image" border="0"></a>
 y Ejecutar
