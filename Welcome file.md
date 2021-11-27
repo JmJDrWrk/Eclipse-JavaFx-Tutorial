@@ -104,8 +104,12 @@ Jésus
 El tío de delante
 ...
 
+# PARA EMPEZAR UN NUEVO PROYECTO -A
+De momento aconsejo utilizar IntellIJ Community Editions para crear el proyecto base hasta la parte de las bases de datos
+Ambos editores son compatibles de usar paralelamente siempre y cuando no se pretenda implementar en el intellIj bases de datos
+debido a que la version de comunity editions no cuenta con la opción.
 
-# PARA EMPEZAR UN NUEVO PROYECTO
+# PARA EMPEZAR UN NUEVO PROYECTO -B
 ## Plugin e(fx)clipse
 Instalar desde el marketplace como el primer plugin
 ## Descargar la version de javafx para nuestro OS 
