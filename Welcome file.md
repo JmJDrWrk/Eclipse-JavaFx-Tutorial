@@ -71,6 +71,7 @@ podemos colocar este script de ejemplo
                 "valoracion VARCHAR(255),"+
                 "plataforma VARCHAR(255),"+
                 "pegi VARCHAR(255))";
+		statement.executeUpdate(sql);
         System.out.println("TABLA CREADA");
     }catch (Exception e) {
     	System.out.println("LA CREACION DE LA TABLA DE DATOS HA FALLADO");
